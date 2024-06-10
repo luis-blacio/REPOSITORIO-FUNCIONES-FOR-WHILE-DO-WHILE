@@ -52,33 +52,47 @@ LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/b
 8. **Producto de una serie geométrica**
 
 LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/8.F%20.c](url)
+
+
  
 9. **Número de dígitos de un número**
 
 LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/9.F%20.c](url)
 
+
+
 10. **Verificar si un número es primo**
 
 LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/10.F%20.c](url)
 
+
+
+
 11. **Encontrar el MCD (Máximo Común Divisor)**
 
-
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/f6a2c9fa0060d1530e04f49d3bd88d10e2f3197e/11.F%20.c](url)
 
 12. **Sumar los números impares hasta n**
 
-
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/f6a2c9fa0060d1530e04f49d3bd88d10e2f3197e/12.F%20.c](url)
 
 13. **Sumar los números pares hasta n**
 
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/f6a2c9fa0060d1530e04f49d3bd88d10e2f3197e/13.F%20.c](url)
 
 
 14. **Suma de los cuadrados de los primeros n números**
 
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/f6a2c9fa0060d1530e04f49d3bd88d10e2f3197e/14.F%20.c](url)
+
+
 
 15. **Suma de los cubos de los primeros n números**
 
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/f6a2c9fa0060d1530e04f49d3bd88d10e2f3197e/15.F%20.c](url)
 
 
 16. **Suma de una serie de números fraccionarios**
