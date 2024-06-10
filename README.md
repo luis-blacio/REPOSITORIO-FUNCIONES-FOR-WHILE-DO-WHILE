@@ -33,6 +33,8 @@ LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/b
 
 5. **Serie de Fibonacci**
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/831b4bd833d7f91fb735689dc193327436894697/5.F](url)
+
 
   
 6. **Factorial de un número**
