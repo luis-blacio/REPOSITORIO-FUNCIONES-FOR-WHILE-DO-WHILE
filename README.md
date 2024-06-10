@@ -97,20 +97,29 @@ LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/b
 
 16. **Suma de una serie de números fraccionarios**
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/055cc0f70565234c00f7273567bfeec5d4760d1c/16.F%20.c](url)
+
 
 
 17. **Producto de una serie de números fraccionarios**
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/055cc0f70565234c00f7273567bfeec5d4760d1c/17.F%20.c](url)
 
 
 
 18. **Contar los números primos hasta n**
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/055cc0f70565234c00f7273567bfeec5d4760d1c/18.F%20.c](url)
+
 
 
 19. **Calcular el n-ésimo número triangular**
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/055cc0f70565234c00f7273567bfeec5d4760d1c/19.F%20.c](url)
 
 
 
 20. **Calcular la suma de los factoriales de los primeros n números**
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/055cc0f70565234c00f7273567bfeec5d4760d1c/20.F%20.c](url)
 
