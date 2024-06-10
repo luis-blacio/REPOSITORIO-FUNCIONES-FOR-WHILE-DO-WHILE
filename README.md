@@ -39,23 +39,27 @@ LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/b
   
 6. **Factorial de un número**
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/6.F%20.c](url)
+
 
 
 7. **Suma de una serie aritmética**
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/7.F%20.c](url)
 
 
 
 8. **Producto de una serie geométrica**
 
-
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/8.F%20.c](url)
  
 9. **Número de dígitos de un número**
 
-
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/9.F%20.c](url)
 
 10. **Verificar si un número es primo**
 
-
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/af9ae9e4318ae37bcc02258eca29bbc420948fb4/10.F%20.c](url)
 
 11. **Encontrar el MCD (Máximo Común Divisor)**
 
