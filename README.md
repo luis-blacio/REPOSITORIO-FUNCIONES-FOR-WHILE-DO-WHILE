@@ -7,17 +7,27 @@ Cada ejercicio se encuentra en un archivo separado. A continuación se detalla l
 
 1. **Suma de los dígitos de un número**
 
+LINK:[https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/673b1970b5e543246708b990d02d3a21051c59e8/1.F.%20c.c](url)
+
 
    
 2. **Inverso de un número**
 
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/673b1970b5e543246708b990d02d3a21051c59e8/2.F.%20.c](url)
 
-   
+
+
 3. **Potencia mediante sumas sucesivas**
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/928bcb4193461691f585ba7397b78c67e6b412cd/3.F%20.c](url)
 
 
    
 4. **Radicación mediante restas sucesivas**
+
+
+LINK: [https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/928bcb4193461691f585ba7397b78c67e6b412cd/4.F%20.c](url)
+
 
 
 
