@@ -7,7 +7,7 @@ Cada ejercicio se encuentra en un archivo separado. A continuación se detalla l
 
 1. **Suma de los dígitos de un número**
 
-LINK:https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/6681158bcbfde3b5dab367950e057531deaf4ba0/1.F.%20c.c
+LINK: https://github.com/luis-blacio/REPOSITORIO-FUNCIONES-FOR-WHILE-DO-WHILE/blob/6681158bcbfde3b5dab367950e057531deaf4ba0/1.F.%20c.c
 
 
    
